@@ -129,6 +129,19 @@ fieldset[disabled] .btn-primary.active {
     background-color: #fed136;
 }
 
+/*modified */
+.btn-xl2 {
+    padding: 20px 40px;
+    border-color: #000000;
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #000000;
+    background-color: #ffffff;
+}
+
 .btn-xl:hover,
 .btn-xl:focus,
 .btn-xl:active,
@@ -265,7 +278,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../Pictures/NYCgrey.jpg);
+    background-image: url(../Pictures/JaneCover.png);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -285,7 +298,7 @@ header .intro-text .intro-lead-in {
     font-size: 22px;
     font-style: italic;
     line-height: 22px;
-    color: #000000;
+    color: #ffffff;
 }
 
 header .intro-text .intro-heading {
@@ -295,7 +308,7 @@ header .intro-text .intro-heading {
     font-size: 50px;
     font-weight: 700;
     line-height: 50px;
-    color: #000000;
+    color: #ffffff;
 }
 
 @media(min-width:768px) {
