@@ -182,14 +182,14 @@ fieldset[disabled] .btn-xl.active {
     background-color: #fff;
 }
 
-navbar-default {
+.navbar-default {
     border-color: transparent;
     background-color: #222;
 }
 
 .navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #fed136;
+    color: #ffffff;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -278,7 +278,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../Pictures/JaneCover.png);
+    background-image: url(../Pictures/JaneCoverHDCenterYellow.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -313,8 +313,8 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
+        padding-top: 400px;
+        padding-bottom: 100px;
     }
 
     header .intro-text .intro-lead-in {
@@ -423,6 +423,7 @@ section h3.section-subheading {
 #portfolio .portfolio-item .portfolio-caption h4 {
     margin: 0;
     text-transform: none;
+    font-style: italic;
 }
 
 #portfolio .portfolio-item .portfolio-caption p {
