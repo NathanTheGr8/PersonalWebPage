@@ -21,9 +21,15 @@
 }
 
 .footerNate {
-    padding-top: 20px;
-    padding-bottom: 5px;
-    background-color: #CCCCCC;
+    height: 80px;
+    line-height: 80px;
+    background-color: #000000;
     text-align: center;
     text: #ffffff;
+}
+
+.footerText{
+    color: #ffffff;
+    padding-top: 0;
+    text-align: center;
 }
