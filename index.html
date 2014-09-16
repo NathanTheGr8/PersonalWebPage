@@ -929,6 +929,16 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="js/agency.js"></script>
+    <script>
+        $.getDocHeight = function(){
+            return Math.max(
+                    $(document).height(),
+                    $(window).height(),
+                    /* For opera: */
+                    document.documentElement.clientHeight
+            );
+        };
+    </script>
 
 </body>
 
