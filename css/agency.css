@@ -743,8 +743,10 @@ section#contact .text-danger {
 }
 
 footer {
+    background-color: #000000;
     padding: 25px 0;
     text-align: center;
+    text: #999999
 }
 
 footer span.copyright {
