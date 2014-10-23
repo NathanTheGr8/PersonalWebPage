@@ -1,0 +1,35 @@
+.service-image
+{
+    margin:auto;
+    left: 0;
+    width: 120px;
+    height: 120px;
+    border: 7px solid #f1f1f1;
+    border-radius: 100%;
+    text-align: center;
+    color: #fff;
+    background-color: #fed136;
+}
+
+.padding-service
+{
+    padding-bottom: 50px;
+}
+.padding-portfolio
+{
+    padding-bottom: 19px;
+}
+
+.footerNate {
+    height: 80px;
+    line-height: 80px;
+    background-color: #000000;
+    text-align: center;
+    text: #ffffff;
+}
+
+.footerText{
+    color: #ffffff;
+    padding-top: 0;
+    text-align: center;
+}
